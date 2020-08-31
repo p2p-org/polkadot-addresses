@@ -1,0 +1,16 @@
+{
+  "name": "polkadot-addresses",
+  "version": "1.0.0",
+  "author": "Slavik191",
+  "scripts": {
+    "validation": "node validation.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p2p-org/polkadot-addresses.git"
+  },
+  "bugs": {
+    "url": "https://github.com/p2p-org/polkadot-addresses/issues"
+  },
+  "homepage": "https://github.com/p2p-org/polkadot-addresses#readme"
+}
