@@ -1,4 +1,6 @@
-let addresses = require("./addresses.json").addresses
+var myArgs = process.argv.slice(2);
+
+let addresses = require(myArgs[0]).addresses
 
 const totalInfo = {
   totalAddresses: addresses.length,
